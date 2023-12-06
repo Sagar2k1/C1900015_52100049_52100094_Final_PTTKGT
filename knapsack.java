@@ -11,7 +11,7 @@ public class knapsack {
         this.items = items;
         this.capacity = capacity;
     }
-    
+
 
     public static void main(String[] args) {
         
