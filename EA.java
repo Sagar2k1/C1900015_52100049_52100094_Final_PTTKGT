@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class EA {
@@ -39,7 +40,7 @@ public class EA {
         return new_solution;
     }
 
-    public ArrayList<Boolean> OPO(int tau) {
+    public int OPO(int tau) {
         ArrayList<Boolean> best = new ArrayList<Boolean>();
         for (int i = 0; i < this.knapsack.items.size(); i++) {
             best.add(false);
@@ -55,6 +56,19 @@ public class EA {
                 best_fitness = child_fitness;
             }
         }
-        return best;
+        return best_fitness;
+    }
+
+    public int MOEA(int tau) {
+        ArrayList<Boolean> best = new ArrayList<Boolean>();
+        for (int i = 0; i < this.knapsack.items.size(); i++) {
+            best.add(false);
+        }
+        int best_fitness;
+        for (int i = 0; i < tau; i++) {
+            best_fitness = this.fitness(best);
+        }
+
+        
     }
 }
