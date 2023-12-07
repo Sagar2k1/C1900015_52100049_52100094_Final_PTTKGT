@@ -42,7 +42,7 @@ public class EA {
     public ArrayList<Boolean> OPO(int tau) {
         ArrayList<Boolean> best = new ArrayList<Boolean>();
         for (int i = 0; i < this.knapsack.items.size(); i++) {
-            best.set(i, false);
+            best.add(false);
         }
         int best_fitness = this.fitness(best);
 
