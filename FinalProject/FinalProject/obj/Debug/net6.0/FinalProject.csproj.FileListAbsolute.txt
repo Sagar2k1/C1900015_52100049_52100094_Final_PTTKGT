@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\pttkgt\ck\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
